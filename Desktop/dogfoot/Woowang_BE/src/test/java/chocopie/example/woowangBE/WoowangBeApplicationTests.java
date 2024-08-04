@@ -1,4 +1,4 @@
-package org.example.woowang_be;
+package chocopie.example.woowangBE;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
